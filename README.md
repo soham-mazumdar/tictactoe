@@ -16,7 +16,7 @@ A simple tictactoe game
 ## Install
 
 1. Clone the repository:
-      git clone https://github.com/soham-mazumdar/flight.git
+      git clone https://github.com/soham-mazumdar/tictactoe.git
    
 2. Navigate to the project directory:
       cd flight
