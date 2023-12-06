@@ -19,7 +19,7 @@ A simple tictactoe game
       git clone https://github.com/soham-mazumdar/tictactoe.git
    
 2. Navigate to the project directory:
-      cd flight
+      cd tictactoe
    
 3. Install dependencies:
       flutter pub get
